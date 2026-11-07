@@ -13,3 +13,4 @@ Dentro de uma página ou aula, use a barra “Peça à IA” e confirme que tem 
 
 ## Publicar na Vercel
 Configure `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, `OPENAI_API_KEY` e `ANTHROPIC_API_KEY` nas variáveis do projeto. Chaves OpenAI e Anthropic devem permanecer exclusivamente no servidor.
+
